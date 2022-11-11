@@ -1,7 +1,8 @@
 
 # Email news
 
-## this is a email news letter i made for a news organization to share to subscribers via email.it helps subscribers to stay updated on current affairs in the tech community.
+## this is a email news letter i made for a news organization to share to subscribers via email.i helps subscribers to stay updated on current affairs in the tech community.
+
 
 ## Built With
 - html
@@ -30,7 +31,6 @@ To get a local copy up and running follow these simple example steps.
 - Contributions, issues, and feature requests are welcome!
 
 ## Live Demo 
-
 you can view a live demo from [here](https://quavo19.github.io/News-webpage/)
 
 ## Show your support
