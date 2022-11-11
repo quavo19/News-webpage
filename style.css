@@ -25,14 +25,16 @@
   list-style-type: none;
   margin: 0 10px;
 }
-
+.nav-list ul li:hover {
+  color:  rgb(118, 68, 7);
+}
 .nav-list ul li {
   margin: 20px;
   color: rgb(39, 39, 38);
 }
 
 .content-area {
-  margin: 0 10%;
+  margin: 0 5%;
 }
 
 .welcome-image img {
@@ -48,8 +50,7 @@
 .highlights {
   background: rgb(24, 30, 47);
   color: #fff;
-  width: 330px;
-  height: 550px;
+  width: 100%;
 }
 
 .highlights-container {
@@ -89,7 +90,7 @@
 }
 
 .main-idea h1 {
-  font-size: 50px;
+  font-size: 40px;
   width: 90%;
   letter-spacing: -1px;
   font-weight: 700;
@@ -109,12 +110,47 @@
   height: 40px;
   background-color: rgb(20, 20, 19);
   color: #fff;
+  transition: 500ms;
 }
 
 .btn-container {
-  padding-top: 50px;
+  padding-top: 20px;
+}
+
+.description button:hover {
+  color: rgb(248, 242, 242);
+  font-weight: bolder;
+  background-color: orangered;
+  border: orangered;
+  border-radius: 8px;
 }
 
 .more-content {
   display: flex;
+}
+
+.more {
+  display: flex;
+  padding-top: 5%;
+}
+
+.more-img img {
+  width: 90px;
+  height: 100px;
+}
+
+.more-headline h3 {
+  color: rgb(190, 190, 195);
+}
+
+.more-headline h5:hover {
+  color: orangered;
+}
+.more-description p {
+  font-size: 10px;
+  line-height: 20px;
+}
+
+.small-container {
+  padding-left:10px ;
 }
