@@ -1,7 +1,7 @@
 
 # Email news
 
-## this is a email news letter i made for a news organization to share to subscribers via email.i helps subscribers to stay updated on current affairs in the tech community.
+## this is a email news letter i made for a news organization to share to subscribers via email.it helps subscribers to stay updated on current affairs in the tech community.
 
 ## Built With
 - html
