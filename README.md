@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo 
 
-you can view a live demo from [here]()
+you can view a live demo from [here](https://quavo19.github.io/News-webpage/)
 
 ## Show your support
 Give a ⭐️ if you like this project!
