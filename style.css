@@ -25,12 +25,14 @@
   list-style-type: none;
   margin: 0 10px;
 }
-.nav-list ul li:hover {
-  color:  rgb(118, 68, 7);
-}
+
 .nav-list ul li {
   margin: 20px;
   color: rgb(39, 39, 38);
+}
+
+.nav-list ul li:hover {
+  color: rgb(118, 68, 7);
 }
 
 .content-area {
@@ -146,11 +148,12 @@
 .more-headline h5:hover {
   color: orangered;
 }
+
 .more-description p {
   font-size: 10px;
   line-height: 20px;
 }
 
 .small-container {
-  padding-left:10px ;
+  padding-left: 10px;
 }
