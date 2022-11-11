@@ -158,7 +158,7 @@
   padding-left: 10px;
 }
 
-@media only screen and (max-width: 808px){
+@media only screen and (max-width: 808px) {
   .more,
   .head-topic,
   .intro-page {
@@ -169,5 +169,8 @@
   .nav-list {
     display: none;
   }
-  
+
+  .more-content {
+    padding-bottom: 30px;
+  }
 }
