@@ -20,6 +20,10 @@
   align-items: center;
 }
 
+.mobile {
+  display: none;
+}
+
 .nav-list ul {
   display: flex;
   list-style-type: none;
@@ -166,11 +170,28 @@
     flex-direction: column;
   }
 
-  .nav-list {
+  .nav-bg {
     display: none;
   }
 
   .more-content {
     padding-bottom: 30px;
+    margin: 0.5%;
+  }
+
+  .mobile {
+    display: flex;
+  }
+
+  .welcome-image img {
+    width: 100%;
+  }
+
+  .content-area {
+    margin: 0px;
+  }
+
+  .head-topic {
+    margin: 5%;
   }
 }
